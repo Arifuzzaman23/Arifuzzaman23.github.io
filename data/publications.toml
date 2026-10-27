@@ -63,3 +63,20 @@ bibtex = """@article{yourname2026sample,
   journal = {Journal of Computational Methods},
   year    = {2026}
 }"""
+
+[[publication]]
+title = "A Sample Paper on Scalable Scientific Computing"
+authors = "Your Name, Collaborator One, and Collaborator Two"
+venue = "Journal of Computational Methods"
+year = 2026
+selected = true
+doi = "https://doi.org/10.0000/example.2026.001"
+pdf = ""
+code = ""
+abstract = "A concise example entry showing how publications are rendered from a small data file."
+bibtex = """@article{yourname2026sample,
+  title   = {A Sample Paper on Scalable Scientific Computing},
+  author  = {Your Name and Collaborator One and Collaborator Two},
+  journal = {Journal of Computational Methods},
+  year    = {2026}
+}"""
