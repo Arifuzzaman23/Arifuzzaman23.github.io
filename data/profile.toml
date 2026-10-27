@@ -6,10 +6,10 @@
 
 name = "Md Arifuzzaman"
 title = "PhD Student in Applied Mathematics"
-institution = "Your University"
+institution = "North Carolina State University"
 department = "Department of Mathematics"
-email = "you@university.edu"
-location = "City, State"
+email = "marifuz@university.edu"
+# location = "City, State"
 avatar = "images/avatar.svg"
 avatar_alt = "Profile portrait"
 
