@@ -5,3 +5,4 @@ weight: 35
 ---
 
 - Attended a fabulous and fantastic workshop by the SIAM Chapter at NC State!!!
+- Attended conference at VCU
